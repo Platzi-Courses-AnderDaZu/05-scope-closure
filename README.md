@@ -11,3 +11,6 @@ Este Scope permite que una variable que sea definida o declarada dentro de una f
 
 ### Blcok Scope
 Este Scope permite que las variables declaradas o definidas con let y const en un bloque determinado solo puedan ser gestionadas (inicializadas/reinicializadas) desde dicho bloque. Las variables definidas con var dentro de un Block Scope, pueden ser accedidas y gestionadas desde el Scope anterior al que se encuentra el Block Scope.
+
+## Strict Mode
+Cuando en JavaScript ponemos este modo, inmediatamente el código que este donde se define esta sentencia se ajustara a validaciones estrictas de JavaScript, por ejemplo: cuando no se define o instancia una variables pero en cierta parte se le asigna un valor, el mode estricto pedirá primero que se declare dicha variable de lo contrarío no ejecutará el código que sigue.
