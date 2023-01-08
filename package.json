@@ -1,0 +1,20 @@
+{
+  "name": "05-scope-closure",
+  "version": "1.0.0",
+  "description": "En este curso se trabajará conceptos relacionados al scope (alcance) de las variables y funciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Platzi-Courses-AnderDaZu/05-scope-closure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Platzi-Courses-AnderDaZu/05-scope-closure/issues"
+  },
+  "homepage": "https://github.com/Platzi-Courses-AnderDaZu/05-scope-closure#readme"
+}
