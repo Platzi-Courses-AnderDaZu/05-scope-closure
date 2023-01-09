@@ -93,7 +93,6 @@ function createPetList()
         {
             petList.push(pet);
         }
-        
         return petList; 
     }    
 }
